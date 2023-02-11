@@ -1,5 +1,7 @@
 # World of Variational Autoencoders
 
+![Image of VAEs](worldofvae.png)
+
 This is repository of links to all the research group's work in variational autoencoders:
 
 - [Neural Decomposition VAE](https://github.com/kasparmartens/NeuralDecomposition)
